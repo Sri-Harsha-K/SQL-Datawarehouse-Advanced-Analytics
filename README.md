@@ -92,12 +92,3 @@ Generates a comprehensive product-level report view:
 - Management Tool (SQL Server Management Studio — SSMS)
 - Phase 1 Database Setup Required (Fact & Dimension tables)
 
----
-
-## 🧠 Author Notes
-
-This project demonstrates advanced SQL techniques commonly used in business intelligence and analytics. These scripts are ideal for enhancing operational dashboards, executive reporting, or preparing data for BI tools.
-
----
-
-📌 **Note:** Run scripts sequentially to ensure all reports are created successfully.
